@@ -1,0 +1,7 @@
+SSH: git@github.com:Elwali-webdev/-git-premiere.git
+HTTPS: https://github.com/Elwali-webdev/-git-premiere.git
+
+// push an existing repository from the command line:
+git remote add origin https://github.com/Elwali-webdev/-git-premiere.git
+git branch -M main
+git push -u origin main
